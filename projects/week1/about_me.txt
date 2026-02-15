@@ -1,0 +1,3 @@
+I am learning Node.js because I want to build fast and scalable backend applications. 
+JavaScript is already familiar to me on the frontend, and Node.js allows me to use the same language on the server. 
+This will help me become a full-stack developer and create real-world projects more efficiently.
